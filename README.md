@@ -17,8 +17,6 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sammdr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sammdr/" height="30" width="40" /></a>
 </p>
 
-
-
  ## 🥇 Skills:
 <div align="center">
   <table style="border: none;" >
@@ -29,15 +27,14 @@
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
             </a>
           <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"       
-     alt="css3" width="40" height="40"/> 
-  </a> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+          </a> 
           <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+          </a> 
           <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
+            <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+          </a>
         </p>
       </td>
       <td align="center">
@@ -47,12 +44,21 @@
   </table>
 </div>
 
+## 🧐 Github Analyrics:
+<div align="center">
+  <table style="border: none;" >
+    <tr>
+      <td align="center">
+        <a href="https://github.com/sammadr">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sammadr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/sammadr">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sammadr&layout=compact&langs_count=8&theme=algolia"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-## 🧐 Github Análisis:
-<p align="center">
-<a href="https://github.com/sammadr">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sammadr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sammadr&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
