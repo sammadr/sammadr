@@ -1,7 +1,7 @@
 <h1 align="center">Hola, me llamo Samantha Díaz</h1>
-<h3 align="center">Soy estudiante de termino de desarrollo software en el ITLA. Actualmente, estoy enfocada en el desarrollo web.</h3>
+<h3 align="center">Soy estudiante de termino de desarrollo software en el ITLA. En este momento, me estoy enfocada en el desarrollo web.</h3>
 
-- 🌱 Actualmente, estoy aprendiendo: **MySQL y JavaScript**
+- 🌱 Actualmente, estoy aprendiendo: **React, MySQL y JavaScript**
 
 - 👨‍💻 Echale un vistazo a mi portafolio: [(proximamente)]((proximamente))
 
@@ -9,14 +9,14 @@
 
 - 📫 Contactame **samm_dr@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sammdr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sammdr/" height="30" width="40" /></a>
 </p>
 
 
 
- ## 🥰 Languages and Tools
+ ## 🥇 Skills:
 <div align="center">
   <table style="border: none;" >
     <tr>
@@ -46,5 +46,5 @@
 
 
 
-## ♥️ Github analisis:
+## 🧐 Github Análisis:
 <img src="https://github-readme-stats.vercel.app/api?username=sammadr&show_icons=true&theme=radical" alt="sammadr" />
