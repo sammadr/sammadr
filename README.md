@@ -50,4 +50,4 @@
 
 
 ## 🧐 Github Análisis:
-<img src="https://github-readme-stats.vercel.app/api?username=sammadr&show_icons=true&theme=radical" alt="sammadr" />
+<img src="https://github-readme-stats.vercel.app/api?username=sammadr&show_icons=true&locale=en" alt="sammadr"/>
