@@ -19,4 +19,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammadr&show_icons=true&locale=en&layout=compact" alt="sammadr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammadr&show_icons=true&locale=en" alt="sammadr" /></p>
+
+
+## ♥️ Github analisis:
+<img src="https://github-readme-stats.vercel.app/api?username=sammadr&show_icons=true&theme=radical" alt="sammadr" />
