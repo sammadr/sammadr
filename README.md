@@ -50,4 +50,10 @@
 
 
 ## 🧐 Github Análisis:
-<img src="https://github-readme-stats.vercel.app/api?username=sammadr&show_icons=true&locale=en" alt="sammadr"/>
+<p align="center">
+<a href="https://github.com/sammadr">
+    <img height="180em"    
+   src="https://githubreadmestatseighttheta.vercel.app/apiusername=sammadr&show_icons=true&theme=algolia&include_all_com mits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sammadr&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
