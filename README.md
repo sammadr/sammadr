@@ -37,9 +37,6 @@
           </a>
         </p>
       </td>
-      <td align="center">
-        <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammadr&layout=compact" />
-      </td>
     </tr>
   </table>
 </div>
