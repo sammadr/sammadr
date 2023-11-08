@@ -1,4 +1,4 @@
-<h1 align="center">Hola, me llamo Samantha Díaz</h1>
+<h1 align="center"> ✨Hola, me llamo Samantha Díaz 👩‍💻</h1>
 <h3 align="center">Soy estudiante de termino de desarrollo software en el ITLA. En este momento, me estoy enfocada en el desarrollo web.</h3>
 <img src="/assets/SammaDev.png" width="100%">
 
