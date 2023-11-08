@@ -1,16 +1,20 @@
-<h1 align="center"> ✨Hola, me llamo Samantha Díaz 👩‍💻</h1>
-<h3 align="center">Soy estudiante de termino de desarrollo software en el ITLA. En este momento, me estoy enfocada en el desarrollo web.</h3>
-<img src="/assets/SammaDev.png" width="100%" height"50vh">
+<h1 align="center"> ✨Hola, Soy Samma 👩‍💻</h1>
+<h3 align="center">Apasionada por el mundo del diseño web y en constante aprendizaje</h3>
+<img src="samDev.png" width="100%" height"auto">
 
 ## 🐾Sobre mi:
 
+- 🛠️ Actualmente, trabajo en **una emocionante aplicación de viajes en colaboración con colegas, utilizando React JS y Spring Boot.**
+  
+- 🤝🏻 Estoy interesada en colaborar en **diseño de páginas web, prototipos en Figma y mucho más.**
+
 - 🌸 Actualmente, estoy aprendiendo: **React, MySQL y JavaScript**
 
-- 👨‍💻 Echale un vistazo a mi portafolio: [(proximamente)]((proximamente))
+- 📂 Echa un vistazo a mi **[portafolio](proximamente)** (pronto estará disponible).
 
 - 💬 Puedes preguntarme sobre: **React, HTML y CSS**
 
-- 📫 Contactame **samm_dr@hotmail.com**
+- 📫 Puedes contactarme por correo electrónico en **samm_dr@hotmail.com** 📫
 
 ## 👩‍💻 Conectate conmigo: 
 <p align="left">
