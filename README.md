@@ -1,6 +1,6 @@
-<h1 align="center"> ✨Hola, Soy Samma 👩‍💻</h1>
-<h3 align="center">Apasionada por el mundo del diseño web y en constante aprendizaje</h3>
 <img src="samDev.png" width="100%" height"auto">
+<h1 align="center"> ✨Hola, Me dicen Samma 👩‍💻</h1>
+<h3 align="center">Soy una apasionada por el mundo del diseño web y en constante aprendizaje</h3>
 
 ## 🐾Sobre mi:
 
