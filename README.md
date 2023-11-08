@@ -1,6 +1,6 @@
 ![logo](https://github.com/sammadr/sammadr/blob/main/samDev.png)
 <h1 align="center"> ✨Hola, Me dicen Samma 👩‍💻</h1>
-<h3 align="center">Soy una apasionada por el mundo del diseño web y en constante aprendizaje</h3>
+<h3 align="center">👩🏻‍💻Soy apasionada por el mundo del diseño web, y estoy en constante aprendizaje⭐</h3>
 
 ## 🐾Sobre mi:
 
