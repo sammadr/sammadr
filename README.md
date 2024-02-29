@@ -4,15 +4,15 @@
 
 ## 🐾Sobre mi:
 
-- 🛠️ Actualmente, trabajo en **una emocionante aplicación de viajes en colaboración con colegas, utilizando React JS y Spring Boot.**
+- 🛠️ Actualmente, trabajo en **la recreación de una divertida plataforma de ventas de helados utilizando React**
   
-- 🤝🏻 Estoy interesada en colaborar en **diseño de páginas web, prototipos en Figma y mucho más.**
+- 🤝🏻 Estoy interesada en colaborar en **Diseño de páginas web, prototipos en Figma y mucho más.**
 
-- 🌸 Actualmente, estoy aprendiendo: **React, MySQL y JavaScript**
+- 🌸 Actualmente, estoy aprendiendo: **MySQL y JavaScript**
 
-- 📂 Echa un vistazo a mi **[portafolio](proximamente)** (pronto estará disponible).
+- 📂 Echa un vistazo a mi **[portafolio version 2023](https://portafolio-v2023.netlify.app)** 
 
-- 💬 Puedes preguntarme sobre: **React, HTML y CSS**
+- 💬 Puedes preguntarme sobre: **React, Figma, MySQL, HTML y CSS**
 
 - 📫 Puedes contactarme por correo electrónico en **samm_dr@hotmail.com** 📫
 
