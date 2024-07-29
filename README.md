@@ -4,7 +4,10 @@
 
 ![Logo](https://github.com/sammadr/sammadr/blob/main/samDev.png)
 
+<h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&pause=1000&color=FF08AA&background=EACDFF00&width=435&lines=Hola%2C+me+dicen+Samma%3A+;la+florista+del+c%C3%B3digo+y+;arquitecta+de+sitios+web." alt="Typing SVG" /></a>
+</a>
+</h1>
 
 
 ## 🐾Sobre mi:
@@ -15,7 +18,7 @@
 
 - 🌸 Actualmente, estoy aprendiendo: **MySQL y JavaScript**
 
-- 📂 Echa un vistazo a mi **[portafolio version 2023](https://portafolio-v2023.netlify.app)** 
+- 📂 Echa un vistazo a mi **[portafolio ](#)** 
 
 - 💬 Puedes preguntarme sobre: **React, Figma, MySQL, HTML y CSS**
 
@@ -26,9 +29,14 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sammdr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sammdr/" height="30" width="40" /></a>
 </p>
 
- ## 🥇 Skills:
+ ## 🥇 Languages and Tools:
 <div align="center">
-  <table style="border: none;" >
+  <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma,mysql,git,github,vscode" />
+  </a>
+</p>
+  <!-- <table style="border: none;" >
     <tr>
       <td align="center">
         <p align="left">
@@ -54,7 +62,7 @@
         </p>
       </td>
     </tr>
-  </table>
+  </table> -->
 </div>
 
 ## 🧐 Github Analyrics:
