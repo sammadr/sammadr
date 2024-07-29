@@ -12,15 +12,15 @@
 
 ## 🐾Sobre mi:
 
-- 🛠️ Actualmente, trabajo en **la recreación de una divertida plataforma de ventas de helados utilizando React**
+- 🌸 Actualmente, estoy aprendiendo: **MySQL y JavaScript.** Estoy mejorando mis habilidades como Front-end.
+  
+- 🛠️ Estoy trabajo en la creación de un **movil interactivo de gatitos utilizando el dom en JS**
   
 - 🤝🏻 Estoy interesada en colaborar en **Diseño de páginas web, prototipos en Figma y mucho más.**
 
-- 🌸 Actualmente, estoy aprendiendo: **MySQL y JavaScript**
-
 - 📂 Echa un vistazo a mi **[portafolio ](#)** 
 
-- 💬 Puedes preguntarme sobre: **React, Figma, MySQL, HTML y CSS**
+- 💬 Puedes preguntarme sobre: **Accesibilidad web, React, Figma, MySQL, HTML y CSS**
 
 - 📫 Puedes contactarme por correo electrónico en **samm_dr@hotmail.com** 📫
 
@@ -31,7 +31,7 @@
 
  ## 🥇 Languages and Tools:
 <div align="center">
-  <p align="left">
+  <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma,mysql,git,github,vscode" />
   </a>
