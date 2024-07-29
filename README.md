@@ -14,13 +14,13 @@
 
 - 🌸 Actualmente, estoy aprendiendo: **MySQL y JavaScript.** Estoy mejorando mis habilidades como Front-end.
   
-- 🛠️ Estoy trabajo en la creación de un **movil interactivo de gatitos utilizando el dom en JS**
+- 🛠️ Estoy trabajo en la creación de un **movil interactivo de gatitos utilizando el dom en JS.**
   
 - 🤝🏻 Estoy interesada en colaborar en **Diseño de páginas web, prototipos en Figma y mucho más.**
 
-- 📂 Echa un vistazo a mi **[portafolio ](#)** 
+- 📂 Echa un vistazo a mi **[portafolio ](#proximamente)** 
 
-- 💬 Puedes preguntarme sobre: **Accesibilidad web, React, Figma, MySQL, HTML y CSS**
+- 💬 Puedes preguntarme sobre: **Accesibilidad web, React, Figma, MySQL, HTML y CSS.**
 
 - 📫 Puedes contactarme por correo electrónico en **samm_dr@hotmail.com** 📫
 
