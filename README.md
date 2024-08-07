@@ -2,7 +2,7 @@
 <h1 align="center"> ✨Hola, Me dicen Samma 👩‍💻</h1>
 <h3 align="center">👩🏻‍💻Soy apasionada por el mundo del diseño web, y estoy en constante aprendizaje⭐</h3> -->
 
-![Logo](https://github.com/sammadr/sammadr/blob/main/samDev.png)
+![Logo](https://github.com/sammadr/sammadr/blob/main/banner-2024.png)
 
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&pause=1000&color=FF08AA&background=EACDFF00&width=435&lines=Hola%2C+me+dicen+Samma%3A+;la+florista+del+c%C3%B3digo+y+;arquitecta+de+sitios+web." alt="Typing SVG" /></a>
