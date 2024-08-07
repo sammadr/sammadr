@@ -5,7 +5,7 @@
 ![Logo](https://github.com/sammadr/sammadr/blob/main/banner-2024.png)
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&pause=1000&color=FF08AA&background=EACDFF00&width=435&lines=Hola%2C+me+dicen+Samma%3A+;la+florista+del+c%C3%B3digo+y+;arquitecta+de+sitios+web." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&pause=1000&color=FF08AA&background=EACDFF00&width=435&lines=Hola%2C+me+dicen+Samma%3A+;La+florista+del+c%C3%B3digo+y+;arquitecta+de+sitios+web." alt="Typing SVG" /></a>
 </a>
 </h1>
 
@@ -14,7 +14,7 @@
 
 - 🌸 Actualmente, estoy aprendiendo: **MySQL y JavaScript.** Estoy mejorando mis habilidades como Front-end.
 
--  📂 Echa un vistazo a mi **[portafolio ](#proximamente)** 
+-  📂 Echa un vistazo a mi **[portafolio](https://samma-dev.vercel.app/)** 
 
 <!-- - 👨‍💻 Todos mis proyectos están disponibles en https://github.com/sammadr?tab=repositories -->
   
