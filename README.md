@@ -12,30 +12,67 @@
 
 ## 🐾Sobre mi:
 
-- 🌸 Actualmente, estoy aprendiendo: **MySQL y JavaScript.** Estoy mejorando mis habilidades como Front-end.
+- 🌸 Desarrolladora Frontend Junior con casi 2 años de experiencia trabajando con React y Next.js en proyectos reales para empresas y clientes internacionales. Me especializo en la creación de interfaces modernas, accesibles y responsivas, participando tanto en el diseño UX/UI como en la implementación frontend.
 
 -  📂 Echa un vistazo a mi **[portafolio](https://samma-dev.vercel.app/)** 
 
 <!-- - 👨‍💻 Todos mis proyectos están disponibles en https://github.com/sammadr?tab=repositories -->
-  
+
+- 🔒 Nota sobre proyectos profesionales: 
+Algunos proyectos fueron desarrollados en repositorios privados (Bitbucket) 
+debido a políticas de confidencialidad de la empresa. 
+Por este motivo, el código no es público, pero comparto la descripción del proyecto 
+y enlaces a los sitios en producción.
+
+
+🌱 Actualmente:
+- Profundizando en React y Next.js
+- Aprendiendo Angular y TypeScript
+- Fortaleciendo conocimientos en accesibilidad web (a11y)
+- Cursando la **Especialización en Diseño UX/UI: De la investigación a la accesibilidad (Domestika)**
+
+🛠️ Tecnologías principales
+- React · Next.js · JavaScript
+- HTML5 · CSS3 · Tailwind CSS · Bootstrap
+- APIs REST · Axios
+- Figma · Diseño UX/UI · Accesibilidad Web (a11y)
+- Git · GitHub · Trabajo remoto · Colaboración con equipos backend
+
+<!--
+📂 Portafolio
+👉 [Agregar link aquí] -->
+
+🤝 Intereses de colaboración
+- Desarrollo frontend en React / Next.js
+- Diseño y prototipado UX/UI en Figma
+- Mejora de UI, accesibilidad y experiencia de usuario
+
+💬 Puedes preguntarme sobre
+React, Next.js, Accesibilidad Web, Figma, APIs REST, HTML y CSS
+
+
+
+<!--
 - 🛠️ Estoy trabajo en la creación de un **movil interactivo de gatitos utilizando el dom en JS.**
   
 - 🤝🏻 Estoy interesada en colaborar en **Diseño de páginas web, prototipos en Figma y mucho más.**
 
 - 💬 Puedes preguntarme sobre: **Accesibilidad web, React, Figma, MySQL, HTML y CSS.**
+-->
 
-- 📫 Puedes contactarme por correo electrónico en **samm_dr@hotmail.com** 📫
 
 ## 👩‍💻 Conectate conmigo: 
 <p align="left">
 <a href="https://www.linkedin.com/in/sammdr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sammdr/" height="30" width="40" /></a>
 </p>
+- 📫 Puedes contactarme por correo electrónico en **samm_dr@hotmail.com** 📫
 
  ## 🥇 Languages and Tools:
 <div align="center">
   <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,figma,github,vscode" /> nextjs
+     <!-- <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,figma,mysql,git,github,vscode" />  -->
   </a>
 </p>
   <!-- <table style="border: none;" >
